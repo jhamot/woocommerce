@@ -29,7 +29,7 @@
 	"dependencies": {
 		"@wordpress/a11y": "wp-6.0",
 		"@wordpress/data": "wp-6.0",
-		"@wordpress/notices": "wp-6.0"
+		"@wordpress/notices": "3.31.0"
 	},
 	"peerDependencies": {
 		"lodash": "^4.17.0",
