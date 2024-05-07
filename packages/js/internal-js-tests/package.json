@@ -35,7 +35,7 @@
 		"@wordpress/data": "wp-6.0",
 		"@wordpress/i18n": "wp-6.0",
 		"@wordpress/jest-console": "^5.0.1",
-		"regenerator-runtime": "^0.13.9"
+		"regenerator-runtime": "^0.14.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.17.5",
