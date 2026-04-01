@@ -33,9 +33,9 @@
 		"@woocommerce/experimental": "workspace:*",
 		"@woocommerce/explat": "workspace:*",
 		"@woocommerce/tracks": "workspace:*",
-		"@wordpress/components": "wp-6.0",
+		"@wordpress/components": "20.0.0",
 		"@wordpress/element": "wp-6.0",
-		"@wordpress/i18n": "wp-6.0",
+		"@wordpress/i18n": "4.17.0",
 		"gridicons": "^3.4.0",
 		"string-similarity": "4.0.4"
 	},
