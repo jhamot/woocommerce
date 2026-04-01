@@ -65,7 +65,7 @@
 		"webpack": "^5.76.2"
 	},
 	"dependencies": {
-		"@babel/core": "7.12.9",
+		"@babel/core": "7.13.14",
 		"@wordpress/babel-plugin-import-jsx-pragma": "^3.2.0",
 		"@wordpress/babel-preset-default": "^6.17.0",
 		"lodash": "^4.17.21",
