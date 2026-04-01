@@ -67,7 +67,7 @@
 	},
 	"dependencies": {
 		"@woocommerce/components": "workspace:*",
-		"@wordpress/components": "wp-6.0",
-		"@wordpress/element": "wp-6.0"
+		"@wordpress/components": "20.0.0",
+		"@wordpress/element": "4.13.0"
 	}
 }
