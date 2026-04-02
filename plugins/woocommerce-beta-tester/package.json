@@ -30,11 +30,11 @@
 		"@woocommerce/components": "workspace:*",
 		"@woocommerce/data": "workspace:*",
 		"@wordpress/api-fetch": "wp-6.0",
-		"@wordpress/components": "wp-6.0",
+		"@wordpress/components": "20.0.0",
 		"@wordpress/compose": "wp-6.0",
 		"@wordpress/data": "wp-6.0",
 		"@wordpress/data-controls": "wp-6.0",
-		"@wordpress/element": "wp-6.0",
+		"@wordpress/element": "4.13.0",
 		"@wordpress/hooks": "wp-6.0",
 		"prop-types": "^15.8.1"
 	},
